@@ -1,4 +1,4 @@
-package com.techvantage.corejava.beginner;
+package com.techvantage.corejava.beginner.firstprogram;
 
 public class FirstJavaProgram {
     public static void main(String[] args) {
